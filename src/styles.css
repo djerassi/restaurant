@@ -1,0 +1,15 @@
+button {
+    background-color:black;
+    color:white;
+    border-radius: 10px;
+    border:0px;
+    box-shadow:1px 1px 1px grey;
+}
+
+.tabs {
+    display:flex;
+    flex-direction:row;
+    justify-content:first baseline;
+    align-items:center;
+    gap:10px;
+}
